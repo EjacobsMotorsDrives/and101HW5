@@ -38,7 +38,7 @@ The following EXTRA features are implemented:
 My chosen API for this project is **pokeapi**.
 
 # MY GIF
-![](https://imgur.com/a/xvK34CE.gif)
+![](https://imgur.com/xwwbkZf.gif)
 Here's a video / GIF that demos all of the app's implemented features:
 GIF created with **your chosen GIF tool**
 
